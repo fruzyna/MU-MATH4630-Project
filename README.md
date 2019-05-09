@@ -3,7 +3,7 @@ Liam Fruzyna
 Files:
 
 - `model.py` - Script used to bulk run simulation.
-- `modeling.ipynb - Notebook used to develop model.
+- `modeling.ipynb` - Notebook used to develop model.
 - `counter.ipynb` - Script used to count winners.
 - `Pitching.csv` - Raw pitching data.
 - `Batting.csv` - Raw batting data.
